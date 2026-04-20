@@ -55,3 +55,4 @@ print(results.find(50))   # [4]
 print(results.find(77))   # []
 print(results.get_sorted())   # [38, 42, 50, 58, 67, 73, 85, 91, 100]
 print(results.scores)
+
