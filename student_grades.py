@@ -23,6 +23,8 @@ class StudentsGrades:
         else:
             return "F"
 
+    def find(self):
+
 
 results = StudentsGrades([85, 42, 91, 67, 50, 73, 100, 38, 58])
 
